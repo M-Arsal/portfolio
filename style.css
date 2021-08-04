@@ -381,6 +381,7 @@ display: none;
 .section-booking{
   opacity: 0;
   visibility: hidden;
+width:100%;
 }
 .section-booking:target{
   opacity: 1;
