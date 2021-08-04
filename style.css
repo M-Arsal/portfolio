@@ -505,7 +505,7 @@ width:100%;
   
 .p1{
   position: absolute;
-  top:9rem;
+  top:11rem;
   font-size:1.5rem;
   text-transform: uppercase;
   left:50%;
@@ -516,7 +516,7 @@ width:100%;
 .p2{
   text-transform: uppercase;
    position: absolute;
-  top:60%;
+  top:55%;
   transform:translateY(-50%);
   word-spacing: .1rem;
   padding: .3rem;
