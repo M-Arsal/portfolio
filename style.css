@@ -174,7 +174,7 @@ visibility: visible;
   display: block;
   border-radius: 3px;
     background-image: linear-gradient(120deg,white 50%,#35DA2A 50%);
-  
+  transition: all .4s;
 }
 .nav-links:hover{
   background-position: 100%;
