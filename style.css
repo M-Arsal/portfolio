@@ -595,13 +595,14 @@ width: 95%;
 .p2{
   text-transform: uppercase;
    position: absolute;
-  top:60%;
+  top:65%;
   transform:translateY(-50%);
   word-spacing: .1rem;
   padding: .3rem;
   font-family: sans-serif;
   font-size: 2rem;
   line-height:1.7;
+  color:#f7f7f7;
 } 
   
   
