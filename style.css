@@ -175,6 +175,8 @@ visibility: visible;
   border-radius: 3px;
     background-image: linear-gradient(120deg,white 50%,#35DA2A 50%);
   transition: all .4s;
+
+  
 }
 .nav-links:hover{
   background-position: 100%;
@@ -448,11 +450,11 @@ width:100%;
 .p2{
   position: absolute;
   text-transform: uppercase;
-  top:10rem;
-  word-spacing: .1rem;
-  padding: .3rem;
+  top:8rem;
+  word-spacing: .2rem;
+  padding: 2.3rem;
   font-family: sans-serif;
-  font-size: .6rem;
+  font-size: .9rem;
 }
 .arrow-background{
   position: relative;
@@ -608,7 +610,7 @@ width: 95%;
  .about{
   background-color: black;
   width: 100%;
-  height:55vh;
+  height:70vh;
   position: relative;
   color: white;
   text-align: center;
@@ -640,16 +642,40 @@ width: 95%;
 .p2{
   text-transform: uppercase;
    position: absolute;
-  top:55%;
+  top:70%;
   transform:translateY(-45%);
   word-spacing: .1rem;
   padding: .3rem;
   font-family: sans-serif;
-  font-size: 2rem;
+  font-size: 1.5rem;
   line-height:1.7;
   color:#f7f7f7;
 } 
   
   
+  .nav-links{
+  text-align: center;
+  color: #333;
+  text-decoration: none;
+  text-transform: uppercase;
+  display:block;
+  background-size:220%;
+  display: block;
+  border-radius: 3px;
+    background-image: linear-gradient(120deg,white 50%,#35DA2A 50%);
+  transition: all .4s;
+  font-size: 4.5rem;
+padding:2.5rem;
+margin-top:2.5rem;
+}
+
+.navigation{
+  position: absolute;
+      top: 10rem;
+  left: 61px;
+  height: 100%;
+  width: 0;
+
   
+}
 }
